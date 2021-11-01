@@ -1,3 +1,9 @@
 {
-  "todo": []
+  "todo": [
+    {
+      "id": 1,
+      "name": "Wash the dishes",
+      "state": false
+    }
+  ]
 }
