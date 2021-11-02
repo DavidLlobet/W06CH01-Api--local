@@ -2,8 +2,18 @@
   "todo": [
     {
       "id": 1,
-      "name": "Wash the dishes",
-      "state": false
+      "text": "Wash the dishes",
+      "isEnabled": true
+    },
+    {
+      "id": 2,
+      "text": "Do the shopping",
+      "isEnabled": true
+    },
+    {
+      "id": 3,
+      "text": "Feed the dog",
+      "isEnabled": true
     }
   ]
 }
